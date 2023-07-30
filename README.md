@@ -84,6 +84,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-📧 Contact: your_email@example.com
-🌐 Website: www.yourwebsite.com
-📅 Last Updated: Month DD, YYYY
+📧 Contact: preshitdesai22062002@gmail.com
+📅 Last Updated: July 30, 2023
